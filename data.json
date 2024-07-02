@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "image": "ishq-jaisa-kuch-fighter-500-500.jpg",
+    "Name": "Ishq Jaisa Kuch",
+    "para": "Fighter - Mp3 Songs...",
+    "song": "songs/Ishq Jaisa Kuch Fighter 320 Kbps.mp3",
+    "sngimg": "play-svgrepo-com (3).svg"
+  },
+  {
+    "id": 1,
+    "image": "66033_4.jpg",
+    "Name": "Maine Pi Rakhi Hai",
+    "para": "Tu Jhoothi Main Makkar (2023)",
+    "song": "songs/Maine Pi Rakhi Hai_320(PagalWorld.com.pe).mp3",
+    "sngimg": "play-svgrepo-com (3).svg"
+  },
+  {
+    "id": 2,
+    "image": "papa-meri-jaan-animal-500-500.jpg",
+    "Name": "papa-meri-jaan-animal",
+    "para": "Animal - Mp3 Songs...",
+    "song": "songs/Papa Meri Jaan Animal 320 Kbps.mp3",
+    "sngimg": "play-svgrepo-com (3).svg"
+  },
+  {
+    "id": 3,
+    "image": "65756_4.jpg",
+    "Name": "Tere Pyar Mein",
+    "para": "Tu Jhoothi Main Makkar (2023)",
+    "song": "songs/Tere Pyar Mein_320(PagalWorld.com.pe).mp3",
+    "sngimg": "play-svgrepo-com (3).svg"
+  },
+  {
+    "id": 4,
+    "image": "artwork-440x440 (5).jpg",
+    "Name": "Desmeon-Hellcat(NCS Release)",
+    "para": "NCS - Copyright Free Music...",
+    "song": "songs/Desmeon - Hellcat [NCS Release].mp3",
+    "sngimg": "play-svgrepo-com (3).svg"
+  },
+  {
+    "id": 5,
+    "image": "artwork-440x440 (6).jpg",
+    "Name": "Jo Cohen & Sex Whales - We Are [NCS Release]",
+    "para": "NCS - Copyright Free Music...",
+    "song": "songs/Jo Cohen & Sex Whales - We Are [NCS Release].mp3",
+    "sngimg": "play-svgrepo-com (3).svg"
+  },
+  {
+    "id": 6,
+    "image": "artwork-440x440 (7).jpg",
+    "Name": "Jim Yosef - Firefly [NCS Release]",
+    "para": "NCS - Copyright Free Music...",
+    "song": "songs/Jim Yosef - Firefly [NCS Release].mp3",
+    "sngimg": "play-svgrepo-com (3).svg"
+  },
+  {
+    "id": 7,
+    "image": "artwork-440x440 (8).jpg",
+    "Name": "Bad Girl [NCS Release]",
+    "para": "NCS - Copyright Free Music...",
+    "song": "songs/Bad Girl.mp3",
+    "sngimg": "play-svgrepo-com (3).svg"
+  },
+  {
+    "id": 8,
+    "image": "artwork-440x440 (9).jpg",
+    "Name": "Cartoon - Why We Lose [NCS Release]",
+    "para": "NCS - Copyright Free Music...",
+    "song": "Cartoon - Why We Lose (feat. Coleman Trapp) [NCS Release].mp3",
+    "sngimg": "play-svgrepo-com (3).svg"
+  }
+]
